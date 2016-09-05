@@ -3,3 +3,8 @@
 Link to skin: http://skins.b2evolution.net/evopress-skin
 
 <img src="skinshot.png"/>
+
+### Update log:
+
+#### v6.7.7
+- Sync with b2evolution-6.7.6-stable built-in skin version
